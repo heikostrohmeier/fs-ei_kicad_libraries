@@ -1,2 +1,2 @@
-# fs-ei_kicad_libraries
+# FS-EI Kicad Libraries
 KiCad Symbol- und Footprintsammlung der Fachschaft Elektrotechnik

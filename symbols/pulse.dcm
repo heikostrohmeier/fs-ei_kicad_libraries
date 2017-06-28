@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Pulse_PA0367
+D Transformer, single primary, single secondary
+K transformer coil magnet
+$ENDCMP
+#
+#End Doc Library

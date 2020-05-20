@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LTC3622_DFN
+D Synchronous Step-Down Regulator 17V dual 1A
+F http://www.analog.com/media/en/technical-documentation/data-sheets/3622fc.pdf
+$ENDCMP
+#
 #End Doc Library
